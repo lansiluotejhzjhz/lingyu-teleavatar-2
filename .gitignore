@@ -1,0 +1,14 @@
+# 服务器连接信息（含密码），不要提交
+B70.txt
+
+# 运行日志和相机过程图像（约 1.2 GB）
+teleavatar2/b70/logs/
+
+# 第三方二进制，按 README 说明自行下载
+teleavatar2/bin/
+
+# 与项目无关的视频
+66.mp4
+
+__pycache__/
+*.pyc
