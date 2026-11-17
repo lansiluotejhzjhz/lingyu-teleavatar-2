@@ -6,6 +6,15 @@
 
 灵巧操作（抓取、递交）由两个微调过的 pi0.5 视觉语言动作模型完成，移动、对位、状态判断和安全把关由规则程序完成。推理跑在 Intel Xeon + 两张 Arc Pro B70 显卡上，一张卡驻留一个模型。
 
+## 作者与贡献
+
+团队：**AAAAA**
+
+| 成员 | 主要贡献 |
+| --- | --- |
+| [蒋昊泽](https://github.com/lansiluotejhzjhz) | 任务链设计、双 VLA 模型部署、机器人端联调与安全校验 |
+| [Jerrysupreme](https://github.com/Jerrysupreme) | 机器人调试 |
+
 ## 演示视频
 
 [![点击观看演示视频](assets/demo_cover.jpg)](111.mp4)
