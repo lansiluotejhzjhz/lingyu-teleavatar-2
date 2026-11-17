@@ -13,7 +13,7 @@
 | 成员 | 主要贡献 |
 | --- | --- |
 | [蒋昊泽](https://github.com/lansiluotejhzjhz) | 任务链设计、双 VLA 模型部署、机器人端联调与安全校验 |
-| [Jerrysupreme](https://github.com/Jerrysupreme) | 机器人调试 |
+| [Jerrysupreme](https://github.com/Jerrysupreme) | 机器人算法与实机调试 |
 | [xcxc925](https://github.com/xcxc925) | 数据训练 |
 | [ZXJXUN](https://github.com/ZXJXUN) | 安全员、机器人调试 |
 
