@@ -16,6 +16,7 @@
 | [Jerrysupreme](https://github.com/Jerrysupreme) | 机器人算法与实机调试 |
 | [xcxc925](https://github.com/xcxc925) | 数据训练 |
 | [ZXJXUN](https://github.com/ZXJXUN) | 安全员、机器人调试 |
+| [xyolob612-liulu](https://github.com/xyolob612-liulu) | 数据采集师 |
 
 ## 演示视频
 
