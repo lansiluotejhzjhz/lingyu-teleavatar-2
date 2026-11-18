@@ -17,6 +17,7 @@
 | [xcxc925](https://github.com/xcxc925) | 数据训练 |
 | [ZXJXUN](https://github.com/ZXJXUN) | 安全员、机器人调试 |
 | [xyolob612-liulu](https://github.com/xyolob612-liulu) | 数据采集师 |
+| [feng1201](https://github.com/feng1201) | 代码框架搭建 |
 
 ## 演示视频
 
